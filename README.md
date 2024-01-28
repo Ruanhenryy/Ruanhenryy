@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭Cursos concluidos: Banco de dados e pensamento computacional e montagem e manutemção de computadores.
+🌱cursos em andamento: Front e back-end e redes de computadores.
+📫Email: caruaru288@gmail.com
